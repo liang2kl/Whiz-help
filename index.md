@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 关于
 
-You can use the [editor on GitHub](https://github.com/liang2kl/Whiz-help/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+在本页面中，你可以阅读 Whiz 隐私政策。你还可以在 [Issues](https://github.com/liang2kl/Whiz-help/issues) 中提交建议或错误。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如需联系开发者，请发邮件至 [liang2kl.dev@outlook.com](mailto:liang2kl.dev@outlook.com)。
 
-### Markdown
+## Whiz 隐私政策
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本应用尊重并保护所有使用服务用户的个人隐私权。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。
 
-```markdown
-Syntax highlighted code block
+### 信息收集和使用
 
-# Header 1
-## Header 2
-### Header 3
+本应用不以任何方式收集任何用户数据。
 
-- Bulleted
-- List
+### 外部链接
 
-1. Numbered
-2. List
+本应用可能包含外部链接，点击时将会打开特定网页。本应用对外部链接的内容、隐私政策和行为不负任何责任。请查看相应网站的隐私政策。
 
-**Bold** and _Italic_ and `Code` text
+### 隐私政策的变更
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liang2kl/Whiz-help/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本隐私政策可能会随时更新，建议您定期查看本页面，了解本应用最新的隐私政策。隐私政策以当前页面为准。
